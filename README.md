@@ -4,8 +4,8 @@ This project is a Frontend Mentor challenge where the goal is to create a websit
 
 ## Live Demo 🌐
 
-[Netlify Deployment](https://job-listing-frontend-mentor-challange.netlify.app/)
-[Frontend Mentor Challenge Link](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
+[Netlify Deployment](https://job-listing-frontend-mentor-challange.netlify.app/)  | 
+[Frontend Mentor Challenge Link](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)   |
 [Frontend Mentor Challenge Solution  Link](https://www.frontendmentor.io/solutions/responsive-job-listing-with-filter-UZX1J3GNHS)
 
 ## Tech Stack 🛠️
