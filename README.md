@@ -89,6 +89,7 @@ function clearKeywords() {
   });
 }
 
+```
 ## API Screenshots 📸
 
 ## Application Screenshots 📱
