@@ -4,7 +4,7 @@ This project is a Frontend Mentor challenge where the goal is to create a websit
 
 ## Live Demo 🌐
 
-[Netlify Deployment](<your_netlify_link_here>)
+[Netlify Deployment](https://job-listing-frontend-mentor-challange.netlify.app/)
 
 ## Tech Stack 🛠️
 
