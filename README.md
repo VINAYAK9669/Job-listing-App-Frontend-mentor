@@ -92,6 +92,10 @@ function clearKeywords() {
 ```
 ## API Screenshots 📸
 
+The underline properties we need to filter as a category.
+
+![API Screenshots](screenshots/API_VIEW.JPG)
+
 ## Application Screenshots 📱
 
 <div align="center" height="350px">
