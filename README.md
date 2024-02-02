@@ -88,3 +88,12 @@ function clearKeywords() {
     payload: [],
   });
 }
+
+## API Screenshots 📸
+
+## Application Screenshots 📱
+
+![API Screenshots](screenshots/desktop.jpg)
+![API Screenshots](screenshots/DesktopFilter.jpg)
+![API Screenshots](screenshots/mobileFilter.jpg)
+
