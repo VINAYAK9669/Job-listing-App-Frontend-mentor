@@ -96,7 +96,7 @@ function clearKeywords() {
 
 <div align="center">
   <img src="screenshots/desktop.jpg" alt="API Screenshots" width="45%"/>
-  <img src="screenshots/DesktopFilter.jpg" alt="Application Screenshots" width="45%"/> 
+  <img src="screenshots/mobileFilter.jpg" alt="Application Screenshots" width="45%"/> 
 </div>
 
 ![API Screenshots](screenshots/DesktopFilter.jpg)
