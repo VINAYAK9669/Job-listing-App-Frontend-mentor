@@ -94,7 +94,11 @@ function clearKeywords() {
 
 ## Application Screenshots 📱
 
-![API Screenshots](screenshots/desktop.jpg)
-![API Screenshots](screenshots/DesktopFilter.jpg)
+<div align="center">
+  <img src="screenshots/desktop.jpg" alt="API Screenshots" width="45%"/>
+  <img src="screenshots/DesktopFilter.jpg" alt="Application Screenshots" width="45%"/>
+   <img src="screenshots/DesktopFilter.jpg" alt="Application Screenshots" width="45%"/>
+</div>
+
 ![API Screenshots](screenshots/mobileFilter.jpg)
 
