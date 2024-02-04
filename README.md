@@ -11,6 +11,7 @@ This project is a Frontend Mentor challenge where the goal is to create a websit
 ## Tech Stack 🛠️
 
 - **React.js**
+- **Redux & Redux toolkit**
 - **Vite**
 - **Tailwind CSS**
 - **VS Code**
